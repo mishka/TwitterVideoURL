@@ -3,7 +3,6 @@ import builtins as __builtin__
 from os import getenv
 from time import gmtime, strftime
 from dotenv import load_dotenv
-from requests import get
 from tweepy import API
 from tweepy import Stream
 from tweepy import OAuthHandler
